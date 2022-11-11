@@ -1,0 +1,15 @@
+# ninja log v5
+6	927	6895682077611730	CMakeFiles/tp_poo.dir/main.cpp.obj	cb8c0be34259d79c
+19	1162	6895663117344069	CMakeFiles/tp_poo.dir/Canguru.cpp.obj	5f6abbb7c3438c0d
+928	1098	6895682079302071	tp_poo.exe	344cfa2fc4f63030
+25	2112	6895681963783297	CMakeFiles/tp_poo.dir/Coelho.cpp.obj	b9655d8b6c4dd22c
+36	2099	6895681963763120	CMakeFiles/tp_poo.dir/Lobo.cpp.obj	60f4fced0fef027c
+49	1803	6895545203765596	CMakeFiles/tp_poo.dir/functions.cpp.obj	22480f0aa23df00c
+53	2114	6895681963682894	CMakeFiles/tp_poo.dir/Ovelha.cpp.obj	97a401791da1e8ca
+33	982	6895655616399494	CMakeFiles/tp_poo.dir/Animal.cpp.obj	18fab55a50d9346c
+85	2050	6895681963059123	CMakeFiles/tp_poo.dir/Alimento.cpp.obj	ee54baee29741dce
+70	2103	6895681963582332	CMakeFiles/tp_poo.dir/Relva.cpp.obj	3806898330f95453
+55	1252	6895695067518728	CMakeFiles/tp_poo.dir/Cenoura.cpp.obj	c98858a8f842c12d
+39	1256	6895695067518728	CMakeFiles/tp_poo.dir/Relva.cpp.obj	3806898330f95453
+25	1261	6895695067518728	CMakeFiles/tp_poo.dir/main.cpp.obj	cb8c0be34259d79c
+1262	1905	6895695074138835	tp_poo.exe	210962392b53400f
