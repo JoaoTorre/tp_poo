@@ -3,4 +3,4 @@ project(tp_poo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(tp_poo main.cpp Coelho.h functions.cpp functions.h Coelho.cpp Ovelha.cpp Ovelha.h Lobo.cpp Lobo.h Canguru.cpp Canguru.h Animal.h Animal.cpp Alimento.cpp Alimento.h Relva.cpp Relva.h Cenoura.cpp Cenoura.h)
+add_executable(tp_poo main.cpp ReservaGeral.cpp ReservaGeral.h ReservaVisual.cpp ReservaVisual.h Campo.cpp Campo.h)
